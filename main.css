@@ -1,0 +1,21 @@
+html {
+    background-image: url(https://upload.wikimedia.org/wikipedia/vi/1/10/Sukinako_ga_Megane_wo_Wasureta.jpg);
+    background-size: 150% auto;
+}
+#tieude {
+    color: lightgreen;
+    text-align: center;
+}
+#hinh {
+    text-align: center;
+}
+#top {
+    background-color: black;
+    text-align: center;
+}
+h1 {
+    margin: 0;
+}
+uli {
+    font-weight: 900;
+}
